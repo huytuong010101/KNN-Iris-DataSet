@@ -44,7 +44,7 @@ def findMostOccur(arr):
         if num > maxOccur:
             maxOccur = num
             ans = label
-    return label
+    return ans
 
 
 if __name__ == "__main__":
